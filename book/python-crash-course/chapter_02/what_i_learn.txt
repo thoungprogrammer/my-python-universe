@@ -1,0 +1,9 @@
+Method	            What it does
+lower()	        --> Make all letters lowercase
+upper()     	--> Make all letters uppercase
+title()	        --> Capitalize each word
+lstrip()	    --> Remove whitespace on the left
+rstrip()	    --> Remove whitespace on the right
+strip()	        --> Remove whitespace on both sides
+removeprefix()	--> Remove text from the beginning
+removesuffix()	--> Remove text from the end
