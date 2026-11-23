@@ -7,3 +7,7 @@ rstrip()	    --> Remove whitespace on the right
 strip()	        --> Remove whitespace on both sides
 removeprefix()	--> Remove text from the beginning
 removesuffix()	--> Remove text from the end
+
+
+0.1 + 0.3 = 0.30000000000000004
+3 * 0.1 = 0.30000000000000004
