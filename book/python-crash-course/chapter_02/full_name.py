@@ -1,3 +1,4 @@
-first_name = "Morn"
-last_name = "Chanthoung"
-print(f"{first_name} {last_name}")
+first_name = "morn"
+last_name = "chanthoung"
+full_name = f"{first_name} {last_name}".title()
+print(full_name)
