@@ -16,3 +16,5 @@ removesuffix()	--> Remove text from the end
 14_000_000_000 = 14000000000
 
 x, y, z = 0, 0, 0 
+
+import this | to get into the zen of python
