@@ -1,0 +1,6 @@
+fruit_list = [ 'apple' , 'banana' , 'carrot'] --> To create list 
+fruit_list[0] = 'almond'                      --> change element at index 0 to almond
+fruit_list.append('durian')                   --> add to next of last element
+fruit_list.insert(0,'avocado')                --> add new element to index 0 with value 'avocado' and shift next element to left side 
+del fruit_list[0]                             --> remove element at index 0
+del fruit_list                                --> delete whole list 
