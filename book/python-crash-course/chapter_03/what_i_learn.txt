@@ -4,3 +4,5 @@ fruit_list.append('durian')                   --> add to next of last element
 fruit_list.insert(0,'avocado')                --> add new element to index 0 with value 'avocado' and shift next element to left side 
 del fruit_list[0]                             --> remove element at index 0
 del fruit_list                                --> delete whole list 
+last_element = fruit_list.pop()               --> to remove last element and remember it on last_element variable
+first_element = fruit_list.pop(0)             --> to remove first element and remember it on first_element variable
