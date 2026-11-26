@@ -1,0 +1,4 @@
+--> This is how we loop inside a list 
+names = ['thoung','makara','lyheng']
+for name in names:
+    print(name)
