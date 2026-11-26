@@ -10,3 +10,5 @@ fruit_list.remove('apple')                    --> the .remove() function is used
 fruit_list.sort()                             --> the .sort() function is used to sort alphabetical order (for strings) or numerical order (for numbers) permanently.
 fruit_list.sort(reverse =  True)              --> sort order but reverse it
 print(sorted(fruit_list))                     --> this is just a temporary sort in python.
+fruit_list.reverse()                          --> to reverse the order of list
+fruit_list.reverse()                          --> to revert the reverse 
