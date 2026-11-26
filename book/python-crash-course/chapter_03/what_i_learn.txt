@@ -6,4 +6,4 @@ del fruit_list[0]                             --> remove element at index 0
 del fruit_list                                --> delete whole list 
 last_element = fruit_list.pop()               --> to remove last element and remember it on last_element variable
 first_element = fruit_list.pop(0)             --> to remove first element and remember it on first_element variable
-first_element.remove('apple')                 --> the .remove() function is used to delete an item from a collection
+fruit_list.remove('apple')                 --> the .remove() function is used to delete an item from a collection
