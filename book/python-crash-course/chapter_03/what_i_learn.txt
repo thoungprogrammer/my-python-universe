@@ -8,3 +8,4 @@ last_element = fruit_list.pop()               --> to remove last element and rem
 first_element = fruit_list.pop(0)             --> to remove first element and remember it on first_element variable
 fruit_list.remove('apple')                    --> the .remove() function is used to delete an item from a collection
 fruit_list.sort()                             --> the .sort() function is used to sort alphabetical order (for strings) or numerical order (for numbers) permanently.
+print(sorted(fruit_list))                     --> this is just a temporary sort in python.
