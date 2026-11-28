@@ -1,7 +1,15 @@
---> This is how we loop inside a list 
+=================================
+This is how we loop inside a list 
+=================================
 names = ['thoung','makara','lyheng']
 for name in names:
     print(name)
     print(f"Hell, {name}")
 
 print("friend are the best part of my life.")
+
+===========================================
+This is how we loop inside range() function
+===========================================
+for value in range(1,6):
+    print(value)
