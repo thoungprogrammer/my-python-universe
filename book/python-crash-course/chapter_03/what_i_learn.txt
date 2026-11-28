@@ -12,4 +12,4 @@ fruit_list.sort(reverse =  True)              --> sort order but reverse it
 print(sorted(fruit_list))                     --> this is just a temporary sort in python.
 print(sorted(fruit_list, reverse = True))     --> sort in reverse for temporary for list.
 fruit_list.reverse()                          --> to reverse the order of list
-fruit_list.reverse()                          --> to revert the reverse 
+fruit_list.reverse()                          --> to revert the reverse (using double reverse as see above)
