@@ -2,3 +2,4 @@
 names = ['thoung','makara','lyheng']
 for name in names:
     print(name)
+    print(f"Hell, {name}")
