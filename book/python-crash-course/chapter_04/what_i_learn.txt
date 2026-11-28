@@ -19,3 +19,11 @@ This is how we can convert range to list
 ========================================
 numbers = list(range(1,6))
 print(numbers) 
+
+========================================
+This is how we can convert range to list 
+but using 2 step so we can find the 
+event number
+========================================
+event_numbers = list(range(2,11,2))
+print(event_numbers)
