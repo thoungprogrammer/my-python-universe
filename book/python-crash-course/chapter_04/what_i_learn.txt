@@ -13,3 +13,9 @@ This is how we loop inside range() function
 ===========================================
 for value in range(1,6):
     print(value)
+
+========================================
+This is how we can convert range to list
+========================================
+numbers = list(range(1,6))
+print(numbers) 
